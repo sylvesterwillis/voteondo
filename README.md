@@ -5,15 +5,15 @@ Current list of candidates are:
 
 Democratic Party:
 =================
-Lincoln Chafee
-Hillary Clinton
-Bernie Sanders
-Jim Webb
+* Lincoln Chafee
+* Hillary Clinton
+* Bernie Sanders
+* Jim Webb
 
 Republican Party:
 =================
-Ted Cruz
-Mark Everson
-Mike Huckabee
-Rand Paul
-Marco Rubio
+* Ted Cruz
+* Mark Everson
+* Mike Huckabee
+* Rand Paul
+* Marco Rubio
